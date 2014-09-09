@@ -8,6 +8,4 @@ Duke 2016
 
 ### https://tbornottb.github.io/
 
-### You can also find a copy of my resume here:
-
-### https://github.com/tbornottb/tbornottb.github.io/blob/master/Trey2014Resume.pdf?raw=true
+### You can also find a copy of my resume [here!](https://github.com/tbornottb/tbornottb.github.io/blob/master/Trey2014Resume.pdf?raw=true):
