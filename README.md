@@ -4,7 +4,7 @@ Duke 2016
 
 ## Hello, stranger!
 
-### Unfortunately, none of my code work (from class and internships) is public, so this GitHub is going to look pretty bare. But I invite you to check out this collection of some of my non-code work:
+### My code from class and internship work is locked up in private repos, but I have some public code from personal projects, and a portfolio of work here:
 
 ### https://tbornottb.github.io/
 
